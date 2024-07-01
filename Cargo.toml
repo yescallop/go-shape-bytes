@@ -1,0 +1,9 @@
+[package]
+name = "go-shape-bytes"
+version = "0.1.0"
+authors = ["Scallop Ye <yescallop@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+num-bigint = "0.4"
+num-traits = "0.2"
